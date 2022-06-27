@@ -1,0 +1,11 @@
+
+#vidos {
+    width: 600;
+    height: 200;
+}
+
+.video-player {
+    max-width: 300px;
+    max-height: 200px;
+    background-color: black;
+}
